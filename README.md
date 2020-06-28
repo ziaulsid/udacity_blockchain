@@ -1,1 +1,1 @@
-# udacity_blockchain
+Repository containing all the Blockchain projects .
